@@ -1,0 +1,3 @@
+/home/nikita/Documents/GitHub/eye-track/build/CMakeFiles/ascii_studio.dir
+/home/nikita/Documents/GitHub/eye-track/build/CMakeFiles/edit_cache.dir
+/home/nikita/Documents/GitHub/eye-track/build/CMakeFiles/rebuild_cache.dir
